@@ -5,7 +5,7 @@
 
 - 💬 Ask me about: Python, Machine Learning, Data Science, APIs.
 - 📫 How to reach me: [leohb2@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=leohb2@gmail.com&su=Work&body=Hey)
-- ⚡ Fun fact: I practice calisthenics in my spare time and I have travelled to 21 countries in the world.
+- ⚡ Fun fact: I practice calisthenics in my spare time and I have travelled to 25 countries in the world.
 
 ## <h3 align="left">GitHub Stats</h3>
 
